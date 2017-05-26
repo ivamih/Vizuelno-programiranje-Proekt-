@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Sphare : MonoBehaviour {
 
-    public float ballInitialVelocity = 600f;
+    public float ballInitialVelocity = 500f;
 
 
     private Rigidbody rb;
