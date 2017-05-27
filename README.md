@@ -20,7 +20,7 @@ How to play- кратки инструкции за играње на играт
 About us-кратка информација за авторите на играта 
 Quit – излез од играта 
 
-
+![alt text](https://github.com/ivamih/Vizuelno-programiranje-Proekt-/blob/master/glavno%20meni.jpg?raw=true)
 
 
 
