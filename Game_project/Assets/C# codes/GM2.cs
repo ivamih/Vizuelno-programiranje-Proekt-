@@ -10,7 +10,7 @@ public class GM2 : MonoBehaviour
     public int lives = GM.lives;
     public int bricks = 24;
     public float resetDelay = 1f;
-    public Text livesText = GM.instance.livesText;
+    public Text livesText;
     public Text levelText;
     public GameObject pres_r;
     public GameObject gameOver;
@@ -38,6 +38,7 @@ public class GM2 : MonoBehaviour
 
     public void Setup()
     {
+        livesText.text = GM.lives.ToString();
         clonePaddle = Instantiate(paddle, transform.position, Quaternion.identity) as GameObject;
         Instantiate(bricksPrefab, transform.position, Quaternion.identity);
     }

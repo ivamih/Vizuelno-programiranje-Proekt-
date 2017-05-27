@@ -8,8 +8,8 @@ public class Reload : MonoBehaviour
     void Start()
     {
         Time.timeScale = 1;
-        pauseObjects = GameObject.FindGameObjectsWithTag("ShowOnReload");
-        show();
+        //pauseObjects = GameObject.FindGameObjectsWithTag("ShowOnReload");
+        //show();
     }
     void Update()
     {
@@ -22,13 +22,7 @@ public class Reload : MonoBehaviour
 
     }
 
-    void show()
-    {
-        foreach (GameObject g in pauseObjects)
-        {
-            g.SetActive(false);
-        }
-    }
+   
     public void Reload_()
     {
         GM.lives = 3;

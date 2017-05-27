@@ -28,7 +28,7 @@ public class HighScore : MonoBehaviour {
 
     public void Update()
     {
-        text_s.text = "SCORE:" + score;
+       // text_s.text = "SCORE:" + score;
         if (score > highscore)
         {
             highscore = score;

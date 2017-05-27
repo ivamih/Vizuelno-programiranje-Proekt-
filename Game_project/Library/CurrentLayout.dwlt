@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 2039
+  controlID: 21
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 2040
+  controlID: 22
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 2041
+  controlID: 23
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -368,7 +368,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 7a8dfeff368efeff068ffeff0a8ffeff208ffeff9a9afeff969efeff86b4feff50b5feff20b6feff24b6feff3ab6feffccd8feff4a2affff4a9effff76d9ffffe6fbffff000000003234000060340000723b0000524d0000485d00006c6500006a670000cc690000
+    m_ExpandedIDs: 1e66ffffec66ffffb667ffffbe67ffffd267ffff8a6affff1c6bffffe66bffffee6bffff026cffff0a6ffffff681ffff92a1ffff4ca2ffff16a3ffff1ea3ffff32a3ffffc6a6ffffe8afffff68e8ffffe4fbffff00000000903b00009c410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
   m_ExpandedScenes:
-  - Jane
+  - Level2
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -528,19 +528,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/images/Materials
+    - Assets/C# codes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/images/Materials
+  - Assets/C# codes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Jane\Documents\Game_project
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b4250000
-    m_LastClickedID: 9652
-    m_ExpandedIDs: 00000000d02400000625000000ca9a3bffffff7f
+    m_SelectedIDs: f0250000
+    m_LastClickedID: 9712
+    m_ExpandedIDs: 00000000d42400000a25000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -568,7 +568,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d02400000625000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000d42400000a250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -596,7 +596,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300003e60feff205afeff06250000f8f3fdff16250000383600000e250000000000005625000020250000
+    m_ExpandedInstanceIDs: c62300003e60feff205afeff06250000f8f3fdff16250000383600000e25000000000000562500002025000030250000b0250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
