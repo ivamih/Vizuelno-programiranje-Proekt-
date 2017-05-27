@@ -44,6 +44,8 @@ Quit – излез од играта
 
 
 
+Кога ќе се избере опцијата New Game, се отвара следната сцена и играчот може да започне со играта.
+![alt text](https://github.com/ivamih/Vizuelno-programiranje-Proekt-/blob/master/scena.png?raw=true)
 
 #Функционалност на играта:
 
